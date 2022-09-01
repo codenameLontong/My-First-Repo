@@ -4,4 +4,4 @@ NPM     : 2106654675
 
 Kelas   : F
 
-Hobi 	: Bermain basket
+Hobi 	: Bermain mangkok
